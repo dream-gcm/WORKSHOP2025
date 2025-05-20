@@ -18,6 +18,8 @@ This tutorial takes you step-by-step to:
   * You'll need  to be a member of the dream-gcm github organization (if not a member aleady, send us your github login so that we can  add you in the group)
   * You'll need to be ROOT on your computer to be able to install the Docker Desktop app (instructions below), or else you'll need to already have Docker and git commands installed on your machine before coming to the workshop.
   * MAC users: not absolutely necessary but highly recommanded : should have the Command Line Tools installed (if not yet installed,   `xcode-select --install` then `sudo xcodebuild -license accept` in a terminal should do it. More info on https://mac.install.guide/commandlinetools/4  if needed).
+  * There is a version of the Docker Desktop app for Mac OS, Linux and Windows plateforms. However we won't be able to provide any support for Windows users so beware that you'll be on your own. 
+
 
 # 1. Download the DREAM model code and tools
 _[These steps have to be done once for all.]_
